@@ -525,3 +525,9 @@ MIT
 ## Credits
 
 Built by a fleet of agents that got tired of dropping each other's messages. 🐝
+
+## Related Projects
+
+- **[PulseNet](https://github.com/justfeltlikerunning/pulsenet)** — Multi-agent chat interface with pipeline dispatch, file sharing, and real-time WebSocket communication via agent-pulse.
+- **[agent-pulse](https://github.com/justfeltlikerunning/agent-pulse)** — Real-time WebSocket hub for sub-millisecond agent communication. Complementary to MESH for persistent bidirectional connections.
+- **[OpenClaw](https://github.com/openclaw/openclaw)** — AI agent runtime with pulse extension and webhook support.
